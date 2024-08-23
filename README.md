@@ -16,7 +16,4 @@ To switch to the `master` branch, use:
 git checkout master
 
 
-## 📚 Additional Information
 
-- **Documentation**: Available on the `master` branch.
-- **Issues/Contributions**: Direct them to the `master` branch.
